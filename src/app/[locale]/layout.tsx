@@ -11,7 +11,7 @@ import SmoothScroll from '@/components/SmoothScroll';
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 export const metadata = {
-  title: 'Lê Xuân Hội | HOIEST',
+  title: 'Bryan Le | Product Designer',
   description: 'Portfolio of Lê Xuân Hội, a Visual & Product Designer specializing in UI/UX, brand identity, and design systems.',
   icons: {
     icon: '/logo/favicon.svg',
