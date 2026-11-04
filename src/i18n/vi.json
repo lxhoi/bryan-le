@@ -14,37 +14,99 @@
   },
   "about": {
     "title": "GIỚI THIỆU",
-    "intro": {"role": "Lê Xuân Hội (Bryan) là Visual & Product Designer, làm việc trong lĩnh vực UI/UX, nhận diện thương hiệu và hệ thống thiết kế.", "summary": "Với hơn 6 năm kinh nghiệm, Hội xây dựng những hệ thống hình ảnh giúp thương hiệu rõ ràng, khác biệt và nhất quán ở mọi điểm chạm.", "philosophy": "Cách làm việc lấy con người làm trung tâm: bắt đầu từ việc thấu hiểu nhu cầu, hành vi và cảm xúc, rồi chuyển hoá insight thành những giải pháp vừa có ý nghĩa vừa hiệu quả.", "location": "Đang làm việc tại TP. Hồ Chí Minh, Việt Nam"},
-    "timeline": {"eyebrow": "HỒ SƠ", "current": {"date": "2020 — HIỆN TẠI", "role": "Brand Designer", "company": "Kobizo", "description": "Phát triển định hướng hình ảnh và hệ thống nhận diện từ branding, UI, motion đến digital design, tạo nên trải nghiệm thương hiệu liền mạch.", "focus": {"brand_identity": "Nhận diện thương hiệu · Chuyên môn chính", "art_direction": "Art Direction", "packaging": "Thiết kế bao bì · Chuyên môn chính", "ui_design": "Thiết kế UI", "social_media": "Thiết kế Social Media", "illustration": "Minh hoạ"}}, "particula": {"date": "2025 — 2026", "role": "UI/UX Designer", "company": "Particula", "description": "Cộng tác phát triển nhận diện thương hiệu, hệ thống UI và motion graphics cho nền tảng SaaS phân tích tài sản token hoá.", "focus": {"brand_identity": "Nhận diện thương hiệu", "ui_system": "Hệ thống thiết kế UI · Chuyên môn chính", "motion_graphics": "Motion Graphics"}}},
-    "personal": {"title": "THÔNG TIN CÁ NHÂN", "name": "Họ và tên: Lê Xuân Hội", "birth": "Ngày sinh: 03/03/2000", "location": "Địa điểm hiện tại: Bình Thạnh, TP. Hồ Chí Minh"},
-    "education": {"title": "HỌC VẤN", "school": "Đại học Kinh tế TP. Hồ Chí Minh", "years": "2018 — 2022", "degree": "Cử nhân Ngôn ngữ Anh · GPA 7.7"},
-    "skills": {"title": "KỸ NĂNG", "brand_identity": "Nhận diện thương hiệu", "brand_design": "Thiết kế thương hiệu", "art_direction": "Định hướng nghệ thuật", "packaging": "Thiết kế bao bì", "editorial_layout": "Thiết kế bố cục ấn phẩm", "ui_design": "Thiết kế UI", "ui_ux_design": "Thiết kế UI/UX", "social_media": "Thiết kế Social Media", "illustration": "Minh hoạ", "research_synthesis": "Tổng hợp nghiên cứu", "user_research_discovery": "Nghiên cứu người dùng & khám phá vấn đề", "information_architecture": "Kiến trúc thông tin", "interactive_prototyping": "Tạo mẫu tương tác", "responsive_design": "Thiết kế mobile & responsive", "user_modeling": "Mô hình hoá người dùng", "ideation_wireframing": "Phát triển ý tưởng & wireframing", "design_systems": "Hệ thống thiết kế", "high_fidelity_ui": "Thiết kế UI độ trung thực cao"},
-    "expertise": {"title": "CHUYÊN MÔN", "brand": "Hệ thống nhận diện thương hiệu", "digital": "UI & trải nghiệm số", "motion": "Motion & định hướng hình ảnh"},
-    "contact": {"title": "LIÊN HỆ"},
-    "additional_skills": {"gen_ai_vibe_coding": "GenAI / Vibe Coding", "visual_design_systems_scaling": "Thiết kế hình ảnh & mở rộng hệ thống", "typography": "Typography", "art_direction": "Định hướng nghệ thuật"},
-    "text": "Hoạt động trong ngành hơn 6 năm, hiện đang làm việc tại TP.HCM với vai trò nhà thiết kế nhận diện thương hiệu và typography. Với nền tảng tư duy chiến lược cùng kinh nghiệm thực chiến qua nhiều dự án, Hội mang đến các giải pháp nhận diện có tính hệ thống, giúp thương hiệu nổi bật trên thị trường và tạo lợi thế cạnh tranh dài hạn.",
-    "specialties": "Chuyên về Thiết kế thương hiệu, Lettering, Typo, Key Visual, Bao bì, Mascot, Minh họa.",
+    "intro": {
+      "role": "Lê Xuân Hội (Bryan) là UI/UX Designer, tập trung thiết kế giao diện, trải nghiệm người dùng và hệ thống thiết kế cho sản phẩm số.",
+      "summary": "Hội kết hợp tư duy thiết kế với sự thấu hiểu người dùng để tạo nên những trải nghiệm web và ứng dụng rõ ràng, dễ sử dụng và nhất quán.",
+      "philosophy": "Mỗi giải pháp bắt đầu từ việc tìm hiểu nhu cầu và hành vi người dùng, xác định vấn đề, xây dựng luồng trải nghiệm và thử nghiệm prototype để liên tục cải thiện tính khả dụng.",
+      "location": "Đang làm việc tại TP. Hồ Chí Minh, Việt Nam"
+    },
+    "timeline": {
+      "eyebrow": "HỒ SƠ",
+      "current": {
+        "date": "2020 — HIỆN TẠI",
+        "role": "UI/UX Designer",
+        "company": "Kobizo",
+        "description": "Thiết kế trải nghiệm web và ứng dụng, từ tổ chức nội dung, xây dựng luồng thao tác đến hoàn thiện giao diện và hệ thống thành phần UI nhất quán.",
+        "focus": {
+          "information_architecture": "Kiến trúc thông tin & luồng người dùng",
+          "prototyping": "Wireframe & prototype tương tác",
+          "ui_design": "Thiết kế giao diện web & ứng dụng",
+          "design_systems": "Hệ thống thiết kế & thư viện component",
+          "responsive_design": "Thiết kế responsive",
+          "design_handoff": "Hoàn thiện tương tác & bàn giao thiết kế"
+        }
+      },
+      "particula": {
+        "date": "2025 — 2026",
+        "role": "UI/UX Designer",
+        "company": "Particula",
+        "description": "Cộng tác thiết kế UI/UX cho nền tảng SaaS phân tích tài sản token hoá, tập trung tổ chức dữ liệu, thiết kế dashboard và xây dựng hệ thống giao diện nhất quán.",
+        "focus": {
+          "dashboard_ux": "Trải nghiệm dashboard & trực quan hoá dữ liệu",
+          "ui_system": "Hệ thống thiết kế UI & component",
+          "product_interactions": "Prototype & tương tác trong sản phẩm"
+        }
+      }
+    },
+    "personal": {
+      "title": "THÔNG TIN CÁ NHÂN",
+      "name": "Họ và tên: Lê Xuân Hội",
+      "birth": "Ngày sinh: 03/03/2000",
+      "location": "Địa điểm hiện tại: Bình Thạnh, TP. Hồ Chí Minh"
+    },
+    "education": {
+      "title": "HỌC VẤN",
+      "school": "Đại học Kinh tế TP. Hồ Chí Minh",
+      "years": "2018 — 2022",
+      "degree": "Cử nhân Ngôn ngữ Anh · GPA 7.7"
+    },
+    "skills": {
+      "title": "KỸ NĂNG",
+      "ui_ux_design": "Thiết kế UI/UX",
+      "research_synthesis": "Tổng hợp nghiên cứu",
+      "user_research_discovery": "Nghiên cứu người dùng & khám phá vấn đề",
+      "information_architecture": "Kiến trúc thông tin",
+      "interactive_prototyping": "Tạo mẫu tương tác",
+      "responsive_design": "Thiết kế mobile & responsive",
+      "user_modeling": "Mô hình hoá người dùng",
+      "ideation_wireframing": "Phát triển ý tưởng & wireframing",
+      "design_systems": "Hệ thống thiết kế",
+      "high_fidelity_ui": "Thiết kế UI độ trung thực cao",
+      "product_delivery": "Hoàn thiện & bàn giao sản phẩm"
+    },
     "expertise": {
       "title": "CHUYÊN MÔN",
-      "identity": "Nhận diện thương hiệu",
-      "identity_desc": "Xây dựng hệ thống hình ảnh toàn diện: thiết kế logo, bảng màu, typography và bộ quy chuẩn thương hiệu.",
-      "visual": "Thiết kế hình ảnh",
-      "visual_desc": "Thiết kế ấn phẩm marketing, bao bì, tài sản số và nội dung hình ảnh giúp thương hiệu nổi bật.",
-      "strategy": "Chiến lược thương hiệu",
-      "strategy_desc": "Định vị thương hiệu qua nghiên cứu, phân tích đối thủ và thấu hiểu khách hàng mục tiêu."
+      "identity": "Nghiên cứu & trải nghiệm người dùng",
+      "identity_desc": "Tìm hiểu nhu cầu, xác định vấn đề và tổ chức luồng trải nghiệm phù hợp với mục tiêu sản phẩm.",
+      "visual": "Thiết kế giao diện sản phẩm",
+      "visual_desc": "Thiết kế giao diện web, ứng dụng và dashboard với bố cục rõ ràng, dễ sử dụng trên nhiều kích thước màn hình.",
+      "strategy": "Hệ thống thiết kế",
+      "strategy_desc": "Xây dựng component, trạng thái tương tác và tài liệu giúp giao diện nhất quán và dễ mở rộng."
     },
+    "contact": {
+      "title": "LIÊN HỆ"
+    },
+    "additional_skills": {
+      "interaction_design": "Thiết kế tương tác & trạng thái giao diện",
+      "accessibility": "Khả năng tiếp cận trong thiết kế UI",
+      "component_documentation": "Tài liệu component & quy chuẩn sử dụng",
+      "developer_collaboration": "Bàn giao thiết kế & phối hợp với lập trình viên",
+      "design_qa": "Rà soát giao diện & cải tiến trải nghiệm"
+    },
+    "text": "Hội kết hợp tư duy thiết kế với sự thấu hiểu người dùng để tạo nên những trải nghiệm web và ứng dụng rõ ràng, dễ sử dụng và nhất quán.",
+    "specialties": "Chuyên về UI/UX, kiến trúc thông tin, user flow, wireframe, prototype, thiết kế responsive và hệ thống thiết kế.",
     "services": {
       "title": "DỊCH VỤ",
-      "list1": "Thiết kế Logo & Biểu tượng thương hiệu",
-      "list2": "Xây dựng hệ thống nhận diện thương hiệu",
-      "list3": "Bộ quy chuẩn & tài liệu thương hiệu",
-      "list4": "Thiết kế ấn phẩm marketing",
-      "list5": "Thiết kế bao bì",
-      "list6": "Tư vấn & chiến lược thương hiệu"
+      "list1": "Nghiên cứu & phân tích trải nghiệm người dùng",
+      "list2": "Kiến trúc thông tin & user flow",
+      "list3": "Wireframe & prototype tương tác",
+      "list4": "Thiết kế giao diện web & ứng dụng",
+      "list5": "Xây dựng hệ thống thiết kế",
+      "list6": "Đánh giá tính khả dụng & cải tiến UI/UX"
     },
     "approach": {
       "title": "QUY TRÌNH LÀM VIỆC",
-      "text": "Mọi dự án đều bắt đầu bằng nghiên cứu. Tôi tìm hiểu kỹ về doanh nghiệp, khách hàng và đối thủ cạnh tranh của bạn. Sau đó, tôi phát triển ý tưởng vừa khác biệt vừa khả thi về mặt kinh doanh. Tôi làm việc theo hướng hợp tác chặt chẽ và liên tục điều chỉnh, để đảm bảo bộ nhận diện cuối cùng không chỉ đẹp mà còn truyền tải đúng giá trị cốt lõi và sứ mệnh thương hiệu của bạn."
+      "text": "Bắt đầu bằng việc tìm hiểu người dùng và mục tiêu sản phẩm, tôi xác định vấn đề, tổ chức thông tin và xây dựng luồng thao tác. Các ý tưởng được phát triển qua wireframe và prototype, sau đó hoàn thiện giao diện, kiểm tra tính khả dụng và phối hợp với lập trình viên để đưa thiết kế vào sản phẩm."
     }
   },
   "work": {

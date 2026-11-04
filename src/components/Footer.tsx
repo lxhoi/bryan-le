@@ -37,7 +37,7 @@ export default function Footer() {
 
         <div className="footer-bottom">
           <div className="footer-logotype">
-            <Image src="/logo/logotype.svg" alt="HOIEST" width={800} height={150} className="w-full h-auto block" />
+            <Image src="/logo/bryan-le.svg" alt="Bryan Le" width={2545.7} height={395.3} className="w-full h-auto block" />
           </div>
         </div>
       </div>

@@ -14,37 +14,99 @@
   },
   "about": {
     "title": "ABOUT",
-    "intro": {"role": "Lê Xuân Hội (Bryan) is a Visual & Product Designer working across UI/UX, brand identity, and design systems.", "summary": "With over 6 years of experience, he creates visual systems that make brands clear, distinctive, and consistent across every touchpoint.", "philosophy": "His people-first approach begins with understanding needs, behaviour, and emotion—then turns those insights into work that is both meaningful and practical.", "location": "Based in Ho Chi Minh City, Vietnam"},
-    "timeline": {"eyebrow": "PROFILE", "current": {"date": "2020 — PRESENT", "role": "Brand Designer", "company": "Kobizo", "description": "Developing visual direction and identity systems across branding, UI, motion, and digital design to build cohesive brand experiences.", "focus": {"brand_identity": "Brand Identity · Master", "art_direction": "Art Direction", "packaging": "Packaging Design · Master", "ui_design": "UI Design", "social_media": "Social Media Design", "illustration": "Illustration"}}, "particula": {"date": "2025 — 2026", "role": "UI/UX Designer", "company": "Particula", "description": "Collaborated on the brand identity, UI design system, and motion graphics for a tokenized-asset analytics SaaS platform.", "focus": {"brand_identity": "Brand Identity", "ui_system": "UI Design System · Master", "motion_graphics": "Motion Graphics"}}},
-    "personal": {"title": "PERSONAL INFORMATION", "name": "Full name: Lê Xuân Hội", "birth": "Date of birth: 03/03/2000", "location": "Current location: Binh Thanh, Ho Chi Minh City"},
-    "education": {"title": "EDUCATION", "school": "University of Economics Ho Chi Minh City", "years": "2018 — 2022", "degree": "Bachelor's Degree in English Language · GPA 7.7"},
-    "skills": {"title": "SKILLS", "brand_identity": "Brand Identity", "brand_design": "Brand Design", "art_direction": "Art Direction", "packaging": "Packaging Design", "editorial_layout": "Editorial Layout Design", "ui_design": "UI Design", "ui_ux_design": "UI/UX Design", "social_media": "Social Media Design", "illustration": "Illustration", "research_synthesis": "Research Synthesis", "user_research_discovery": "User Research and Problem Discovery", "information_architecture": "Information Architecture", "interactive_prototyping": "Interactive Prototyping", "responsive_design": "Mobile & Responsive Design", "user_modeling": "User Modeling", "ideation_wireframing": "Ideation & Wireframing", "design_systems": "Design Systems", "high_fidelity_ui": "High-Fidelity UI Design"},
-    "expertise": {"title": "FOCUS", "brand": "Brand identity systems", "digital": "UI & digital experience", "motion": "Motion & visual direction"},
-    "contact": {"title": "CONTACT"},
-    "additional_skills": {"gen_ai_vibe_coding": "GenAI / Vibe Coding", "visual_design_systems_scaling": "Visual Design + Systems Scaling", "typography": "Typography", "art_direction": "Art Direction"},
-    "text": "With over 6 years in the industry, currently working in Ho Chi Minh City as a brand identity and typography designer. Combining strategic thinking with hands-on experience across multiple projects, Hoi delivers systematic identity solutions that help brands stand out in the market and create long-term competitive advantages.",
-    "specialties": "Specializing in Brand Identity, Lettering, Typography, Key Visuals, Packaging, Mascots, and Illustration.",
+    "intro": {
+      "role": "Lê Xuân Hội (Bryan) is a UI/UX Designer focused on interfaces, user experiences, and design systems for digital products.",
+      "summary": "He combines design thinking with an understanding of user needs to create clear, usable, and consistent experiences for websites and applications.",
+      "philosophy": "Each solution starts with understanding user needs and behaviour, defining the problem, mapping user flows, and testing prototypes to improve usability through iteration.",
+      "location": "Based in Ho Chi Minh City, Vietnam"
+    },
+    "timeline": {
+      "eyebrow": "PROFILE",
+      "current": {
+        "date": "2020 — PRESENT",
+        "role": "UI/UX Designer",
+        "company": "Kobizo",
+        "description": "Designing web and app experiences, from information architecture and user flows to detailed interfaces and a consistent system of UI components.",
+        "focus": {
+          "information_architecture": "Information architecture & user flows",
+          "prototyping": "Wireframes & interactive prototypes",
+          "ui_design": "Web & app interface design",
+          "design_systems": "Design systems & component libraries",
+          "responsive_design": "Responsive design",
+          "design_handoff": "Interaction refinement & design handoff"
+        }
+      },
+      "particula": {
+        "date": "2025 — 2026",
+        "role": "UI/UX Designer",
+        "company": "Particula",
+        "description": "Collaborated on UI/UX design for a tokenized-asset analytics SaaS platform, focusing on data organization, dashboard experiences, and a consistent interface system.",
+        "focus": {
+          "dashboard_ux": "Dashboard experience & data visualization",
+          "ui_system": "UI design system & components",
+          "product_interactions": "Product prototyping & interactions"
+        }
+      }
+    },
+    "personal": {
+      "title": "PERSONAL INFORMATION",
+      "name": "Full name: Lê Xuân Hội",
+      "birth": "Date of birth: 03/03/2000",
+      "location": "Current location: Binh Thanh, Ho Chi Minh City"
+    },
+    "education": {
+      "title": "EDUCATION",
+      "school": "University of Economics Ho Chi Minh City",
+      "years": "2018 — 2022",
+      "degree": "Bachelor's Degree in English Language · GPA 7.7"
+    },
+    "skills": {
+      "title": "SKILLS",
+      "ui_ux_design": "UI/UX Design",
+      "research_synthesis": "Research Synthesis",
+      "user_research_discovery": "User Research and Problem Discovery",
+      "information_architecture": "Information Architecture",
+      "interactive_prototyping": "Interactive Prototyping",
+      "responsive_design": "Mobile & Responsive Design",
+      "user_modeling": "User Modeling",
+      "ideation_wireframing": "Ideation & Wireframing",
+      "design_systems": "Design Systems",
+      "high_fidelity_ui": "High-Fidelity UI Design",
+      "product_delivery": "Product refinement & handoff"
+    },
     "expertise": {
       "title": "EXPERTISE",
-      "identity": "Brand Identity",
-      "identity_desc": "Creating comprehensive visual systems including logo design, color palettes, typography, and brand guidelines.",
-      "visual": "Visual Design",
-      "visual_desc": "Designing marketing collateral, packaging, digital assets, and visual content that strengthens brand presence.",
-      "strategy": "Brand Strategy",
-      "strategy_desc": "Developing strategic brand positioning through research, competitive analysis, and audience insights."
+      "identity": "User research & experience design",
+      "identity_desc": "Understanding needs, defining problems, and shaping user flows around product goals.",
+      "visual": "Product interface design",
+      "visual_desc": "Designing clear, usable websites, applications, and dashboards across screen sizes.",
+      "strategy": "Design systems",
+      "strategy_desc": "Building components, interaction states, and documentation to keep interfaces consistent and scalable."
     },
+    "contact": {
+      "title": "CONTACT"
+    },
+    "additional_skills": {
+      "interaction_design": "Interaction design & interface states",
+      "accessibility": "Accessibility in UI design",
+      "component_documentation": "Component documentation & usage guidelines",
+      "developer_collaboration": "Design handoff & developer collaboration",
+      "design_qa": "Interface reviews & experience improvements"
+    },
+    "text": "He combines design thinking with an understanding of user needs to create clear, usable, and consistent experiences for websites and applications.",
+    "specialties": "Specializing in UI/UX, information architecture, user flows, wireframes, prototyping, responsive design, and design systems.",
     "services": {
       "title": "SERVICES",
-      "list1": "Logo & Brand Mark Design",
-      "list2": "Brand Identity Systems",
-      "list3": "Brand Guidelines & Documentation",
-      "list4": "Visual Marketing Assets",
-      "list5": "Packaging Design",
-      "list6": "Brand Consultation & Strategy"
+      "list1": "User research & experience analysis",
+      "list2": "Information architecture & user flows",
+      "list3": "Wireframes & interactive prototypes",
+      "list4": "Web & app interface design",
+      "list5": "Design systems",
+      "list6": "Usability reviews & UI/UX improvements"
     },
     "approach": {
       "title": "MY APPROACH",
-      "text": "Every project begins with discovery. I conduct in-depth research to understand your business, audience, and competitive landscape. From there, I develop strategic concepts that are visually distinctive yet commercially viable. My process emphasizes collaboration and refinement, ensuring the final identity not only looks remarkable but also effectively communicates your brand's core values and mission."
+      "text": "I begin by understanding users and product goals, then define the problem, organize information, and map user flows. Ideas take shape through wireframes and prototypes before detailed UI design, usability reviews, and collaboration with developers to bring the experience into the product."
     }
   },
   "work": {

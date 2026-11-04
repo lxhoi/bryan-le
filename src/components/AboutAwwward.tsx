@@ -3,10 +3,9 @@
 import Image from 'next/image';
 import { useTranslations } from 'next-intl';
 
-const brandSkills = ['brand_identity', 'packaging', 'editorial_layout', 'social_media', 'illustration'] as const;
-const brandSpecialties = ['gen_ai_vibe_coding', 'visual_design_systems_scaling', 'typography', 'art_direction'] as const;
-const kobizoFocus = ['brand_identity', 'art_direction', 'packaging', 'ui_design', 'social_media', 'illustration'] as const;
-const particulaFocus = ['brand_identity', 'ui_system', 'motion_graphics'] as const;
+const productDeliverySkills = ['interaction_design', 'accessibility', 'component_documentation', 'developer_collaboration', 'design_qa'] as const;
+const kobizoFocus = ['information_architecture', 'prototyping', 'ui_design', 'design_systems', 'responsive_design', 'design_handoff'] as const;
+const particulaFocus = ['dashboard_ux', 'ui_system', 'product_interactions'] as const;
 const uiUxSkills = [
   'research_synthesis',
   'design_systems',
@@ -77,10 +76,9 @@ export default function AboutAwwward() {
             <h2>{t('skills.title')}</h2>
             <h3 className="about-profile__skill-group-title">{t('skills.ui_ux_design')}</h3>
             <ul>{uiUxSkills.map((skill) => <li key={skill}>{t(`skills.${skill}`)}</li>)}</ul>
-            <h3 className="about-profile__skill-group-title">{t('skills.brand_design')}</h3>
+            <h3 className="about-profile__skill-group-title">{t('skills.product_delivery')}</h3>
             <ul>
-              {brandSkills.map((skill) => <li key={skill}>{t(`skills.${skill}`)}</li>)}
-              {brandSpecialties.map((skill) => <li key={skill}>{t(`additional_skills.${skill}`)}</li>)}
+              {productDeliverySkills.map((skill) => <li key={skill}>{t(`additional_skills.${skill}`)}</li>)}
             </ul>
           </div>
           <div>

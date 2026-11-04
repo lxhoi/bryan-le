@@ -55,7 +55,7 @@ export default function ProjectHeader({ project, desc, tags, aboutQuote, aboutCo
                  if (tag === 'UI/UX') tab = 'ui_ux';
                  if (tag === 'Packaging' || tag === 'Bao bì') tab = 'packaging';
                  return (
-                   <Link href={`/work?tab=${tab}`} key={tag} className="tag-pill hover:bg-black hover:text-white transition-colors cursor-pointer" style={{ fontSize: '12px', padding: '4px 12px', borderRadius: '4px' }}>
+                   <Link href={`/?tab=${tab}`} key={tag} className="tag-pill hover:bg-black hover:text-white transition-colors cursor-pointer" style={{ fontSize: '12px', padding: '4px 12px', borderRadius: '4px' }}>
                      {tag}
                    </Link>
                  );

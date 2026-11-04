@@ -43,7 +43,7 @@ export default function ProjectCard({ project, index }: Props) {
                return (
                  <span key={tag}>
                    {i > 0 && ' / '}
-                   <Link href={`/work?tab=${tab}`} className="hover:text-white transition-colors">{tag}</Link>
+                   <Link href={`/?tab=${tab}`} className="hover:text-white transition-colors">{tag}</Link>
                  </span>
                )
             })}

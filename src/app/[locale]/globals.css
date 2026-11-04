@@ -219,10 +219,6 @@ h1, h2, h3, h4, p, figure {
   text-transform: uppercase;
 }
 
-.work-nav-toggle {
-  display: none;
-}
-
 @media (max-width: 768px) {
   .site-header {
     align-items: flex-start;
@@ -242,56 +238,7 @@ h1, h2, h3, h4, p, figure {
     font-size: 16px;
   }
 
-  .work-nav-item {
-    display: block;
-    padding: 0;
-    margin: 0;
-  }
-
-  .work-nav-link {
-    display: block;
-    padding: 10px 0;
-  }
-
-  .work-nav-toggle {
-    position: absolute;
-    inset: 0;
-    display: block;
-    width: 100%;
-    border: 0;
-    background: transparent;
-    cursor: pointer;
-  }
-
-  .work-nav-menu {
-    position: static;
-    display: none;
-    width: 132px;
-    margin-top: 6px;
-    padding: 0;
-    border: 0;
-    border-radius: 2px;
-    box-shadow: none;
-    opacity: 1;
-    visibility: visible;
-    gap: 2px;
-  }
-
-  .work-nav-item.is-open .work-nav-menu {
-    display: flex;
-  }
-
-  .work-nav-menu a {
-    padding: 8px 12px;
-    border-radius: 2px;
-    background: var(--black);
-    color: var(--white) !important;
-    font-size: 12px;
-    line-height: 1;
-    text-align: center;
-  }
-
-  .nav-links > a:not(.work-nav-link) {
+  .nav-links > a {
     padding: 10px 0;
   }
 
@@ -447,7 +394,7 @@ h1, h2, h3, h4, p, figure {
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 16px;
+  gap: 0;
 }
 
 @media (max-width: 1024px) {
